@@ -1,0 +1,11 @@
+- git init
+- git remote add origin <repo url>
+- git status
+- git add .
+- git commit -m 'thong diep'
+- git push -u origin <ten nhanh>
+- git branch
+- git checkout <ten nhanh>
+- git checkout -b <ten nhanh>
+- git merge <ten nhanh>
+- git pull origin <ten nhanh>
